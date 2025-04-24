@@ -32,6 +32,7 @@ Bond lengths (avg_bond)
 Band gap (band_gap)
 
 Key Questions
+
 How do features (e.g., bond lengths, band gap, space group, volume, structure) correlate with dielectric constants?
 
 Can we identify subgroups (e.g., ferroelectrics) with exceptional properties?
