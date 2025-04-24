@@ -9,20 +9,12 @@ This notebook demonstrates how we can combine data, machine learning, and domain
 What This Project Uses
 
 Computational Datasets:
-
 Dataset of 1,056 materials with DFT-calculated dielectric properties
 (Petousis et al., Sci. Data, 2017)
 
-Machine Learning:
+Machine Learning: Unsupervised clustering (k-means), Feature importance analysis
 
-Unsupervised clustering (k-means)
-Feature importance analysis
-
-Domain Knowledge Integration:
-
-Crystal symmetry (space_group)
-Bond lengths (avg_bond)
-Band gap (band_gap)
+Domain Knowledge Integration: Crystal symmetry (space_group), Bond lengths (avg_bond), Band gap (band_gap)
 
 Key Questions
 
